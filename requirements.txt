@@ -1,4 +1,4 @@
-git+https://github.com/fourjr/discord.py@rewrite
+git+hhttps://github.com/Rapptz/discord.py@rewrite
 lxml
 mtranslate
 colorthief
